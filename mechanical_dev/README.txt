@@ -1,0 +1,1 @@
+Open solidworks files using version of solidworks 2020
